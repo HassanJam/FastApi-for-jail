@@ -1,0 +1,13 @@
+fastapi
+sqlalchemy
+pymysql
+uvicorn
+pydantic
+python-dotenv
+
+
+
+
+
+npm start
+uvicorn main:app --reload
